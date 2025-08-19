@@ -1,8 +1,8 @@
-"""Cria tabelas de usuários e documentos
+"""Criação inicial das tabelas de usuário e documento
 
-Revision ID: 9c9295ea2081
+Revision ID: 6c79a7de470c
 Revises: 
-Create Date: 2025-08-18 16:02:55.555887
+Create Date: 2025-08-18 19:43:21.491588
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '9c9295ea2081'
+revision = '6c79a7de470c'
 down_revision = None
 branch_labels = None
 depends_on = None
